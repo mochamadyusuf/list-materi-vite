@@ -14,8 +14,8 @@
 - [x] Public Directory
 - [x] Preview
 - [x] Configuration
-- [ ] Multi Page Application
-- [ ] Template
+- [x] Multi Page Application
+- [x] Template
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNjU1NzU0LC01ODk2MTUwMTRdfQ==
+eyJoaXN0b3J5IjpbLTU4OTYxNTAxNCwtNTg5NjE1MDE0XX0=
 -->
